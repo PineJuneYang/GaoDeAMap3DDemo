@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\libs\Android_Map3D_SDK_V5.4.0_20170928.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4e6ca382790aa5ca89094e600da12f1a12932870">
+        <dex dex="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.4.0_20170928_2b109e4e636e38929f4bb022615cb7d19b8dc8b6.jar" />
+    </item>
+    <item
+        jar="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\build\intermediates\pre-dexed\debug\android-support-v4_e2a5cb74ef9bfe39ccf4733ed5d83ea44f986e3b.jar" />
+    </item>
+    <item
+        jar="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\libs\Volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Volley_634c7b35caf215382699b07c8c368340b97f3bad.jar" />
+    </item>
+    <item
+        jar="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\libs\AMap_Location_V3.6.0_20170918.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bde647cc7a74d48f415bdeac8a2d06edc315ff38">
+        <dex dex="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.0_20170918_4739fc3acf9628d53d9db2592c2083a20dfdc5ec.jar" />
+    </item>
+    <item
+        jar="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\libs\AMap_Search_V5.3.1_20170817.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b4e1d1d93f686f1a6efe4e49d798b27801d4d301">
+        <dex dex="I:\Android_Studio_Space\AMap_Android_Demo\AMap_Android_API_3DMap_Demo\android_studio\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.3.1_20170817_c7fef3c58ccc54955b747df6b48477618365f77c.jar" />
+    </item>
+
+</items>
